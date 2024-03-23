@@ -1,0 +1,31 @@
+<svg width="54" height="62" viewBox="0 0 54 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="54" height="62" rx="10.3333" fill="#DAF2EC"/>
+<defs>
+<filter id="filter0_d_2274_93792" x="28.6169" y="0.833333" width="21.9665" height="21.8337" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-2.58333"/>
+<feGaussianBlur stdDeviation="1.29167"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0909637 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2274_93792"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2274_93792" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_2274_93792" x1="2106" y1="6" x2="2106" y2="5006" gradientUnits="userSpaceOnUse">
+<stop stop-color="#36D2AD"/>
+<stop offset="1" stop-color="#2DBC9A"/>
+</linearGradient>
+<clipPath id="clip0_2274_93792">
+<rect width="42" height="50" fill="white" transform="translate(6 6)"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip0_2274_93792)">
+<path opacity="0.8" fill-rule="evenodd" clip-rule="evenodd" d="M31.2 6L48 22.6667V50.1667C48 53.3883 45.3674 56 42.12 56H11.88C8.63257 56 6 53.3883 6 50.1667V11.8333C6 8.61167 8.63257 6 11.88 6H31.2Z" fill="url(#paint0_linear_2274_93792)"/>
+<g filter="url(#filter0_d_2274_93792)">
+<path d="M48 22.667H37.377C34.1296 22.667 31.2 19.7607 31.2 16.539V6.00033L48 22.667Z" fill="white"/>
+</g>
+<path d="M48 22.667H37.377C34.1296 22.667 31.2 19.7607 31.2 16.539V6.00033L48 22.667Z" fill="white" fill-opacity="0.4"/>
+<path d="M32.1342 26.833H15.3333C14.8178 26.833 14.3999 27.2476 14.3999 27.7591V42.5743C14.3999 43.0855 14.8178 43.4997 15.3333 43.4997H32.1342C32.6497 43.4997 33.0676 43.0855 33.0676 42.5743V27.7591C33.0676 27.2476 32.6497 26.833 32.1342 26.833ZM30.2673 40.7221H17.2001V36.0927L20.0002 33.3146L24.6672 37.9445L27.4672 35.1662L30.2673 37.9445V40.7221ZM28.4006 33.3146C27.3696 33.3146 26.5339 32.4857 26.5339 31.4629C26.5339 30.4397 27.3696 29.611 28.4006 29.611C29.4316 29.611 30.2673 30.4397 30.2673 31.4629C30.2673 32.4857 29.4316 33.3146 28.4006 33.3146Z" fill="white"/>
+</g>
+
+</svg>
